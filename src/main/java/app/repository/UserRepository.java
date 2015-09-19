@@ -1,4 +1,4 @@
-package repository;
+package app.repository;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

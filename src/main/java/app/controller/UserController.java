@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import app.domain.User;
 import app.exception.ResourceNotFoundException;
-import repository.UserRepository;
+import app.repository.UserRepository;
 
 @RestController
 public class UserController {
