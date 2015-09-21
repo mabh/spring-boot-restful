@@ -8,7 +8,7 @@ import app.exception.ResourceNotFoundException;
 
 /**
  * @author MABH
- * This is an singleton inmemory store (Map) of user id vs user information (for simplicity user's name (String)
+ * This is an singleton inmemory store (Map) of user id vs user information
  * This serves as a backend for a User service
  */
 public final class UserRepository {
